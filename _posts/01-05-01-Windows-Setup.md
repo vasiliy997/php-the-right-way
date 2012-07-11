@@ -2,12 +2,12 @@
 isChild: true
 ---
 
-## Windows Setup
+## Установка PHP на Windows
 
-You can install PHP on windows from an install executable found on the official [PHP Downloads][php-downloads] page. For a complete Apache, MySQL, and PHP installation check out [WAMP][wamp-installer].
+Вы можете установить PHP на windows с помощью установщика, который вы можете увидеть на [странице загрузок официального сайта PHP][php-downloads]. Для полноценной сборки, состоящей из Apache, MySQL, PHP вы можете [скачать WAMP][wamp-installer].
 
-* [Read more about the official PHP Windows Installer][windows-installer]
+* [Подробнее про официальный установцик PHP][windows-installer]
 
 [php-downloads]: http://www.php.net/downloads.php
-[windows-installer]: http://www.php.net/manual/en/install.windows.installer.msi.php
-[wamp-installer]: http://www.wampserver.com/
+[windows-installer]: http://www.php.net/manual/ru/install.windows.installer.msi.php
+[wamp-installer]: http://www.wampserver.com/ru
