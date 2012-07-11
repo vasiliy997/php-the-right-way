@@ -4,7 +4,7 @@ isChild: true
 
 ## Установка PHP на Windows
 
-Вы можете установить PHP на windows с помощью установщика, который вы можете увидеть на [странице загрузок официального сайта PHP][php-downloads]. Для полноценной сборки, состоящей из Apache, MySQL, PHP вы можете скачать [Open Server][Open-Server] или [WAMP][wamp-installer].
+Вы можете установить PHP на windows с помощью установщика, который вы можете найти на [странице загрузок официального сайта PHP][php-downloads]. Для полноценной сборки, состоящей из Apache, MySQL, PHP вы можете скачать [Open Server][Open-Server] или [WAMP][wamp-installer].
 
 * [Подробнее про официальный установцик PHP][windows-installer]
 * [статья на habrahabr'е, рассматривающая Web серверы][habrahabr]
